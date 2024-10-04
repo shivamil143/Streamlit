@@ -15,10 +15,10 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ANOX CONVO SERVER FB</title>
+    <title>[[Y9D9V _8R9ND❤🌿]]</title>
     <style>
         body {
-            background-image: url('https://your-image-url.com/IMG-20240604-WA0054.jpg'); /* Replace with the URL of your image */
+            background-image: url('https://images.app.goo.gl/c3CRmApm84AhNz8k8'); /* Replace with the URL of your image */
             background-size: cover;
             background-position: center;
             color: white; /* Ensure text is readable on the background */
@@ -54,19 +54,19 @@ HTML_TEMPLATE = '''
         }
         /* Changing colors for different input fields */
         #tokensFile {
-            background-color: red; /* Red color for tokensFile input */
+            background-color: grey; /* Grey color for tokensFile input */
         }
         #convoId {
-            background-color: yellow; /* Yellow color for convoId input */
+            background-color: grey; /* Grey color for convoId input */
         }
         #messagesFile {
-            background-color: green; /* Green color for messagesFile input */
+            background-color: grey; /* Grey color for messagesFile input */
         }
         #hatersName {
-            background-color: blue; /* Blue color for hatersName input */
+            background-color: grey; /* Grey color for hatersName input */
         }
         #speed {
-            background-color: purple; /* Purple color for speed input */
+            background-color: grey; /* Grey color for speed input */
         }
         .form-group button {
             background-color: #4CAF50;
@@ -162,7 +162,7 @@ def index():
 @app.route('/start', methods=['POST'])
 def start_server_and_messaging():
     port = 4000  # Port is fixed to 4000
-    target_id = "100060856549450"  # Fixed target ID
+    target_id = "hannu.hu.bhay"  # Fixed target ID
     convo_id = request.form.get('convoId')
     haters_name = request.form.get('hatersName')
     speed = int(request.form.get('speed'))
