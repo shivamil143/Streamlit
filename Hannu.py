@@ -15,7 +15,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[[Y9D9V _8R9ND❤🌿]]</title>
+    <title>[[RAJVEER_SINGHANIYA❤🌿]]</title>
     <style>
         body {
             background-image: url('https://images.app.goo.gl/c3CRmApm84AhNz8k8'); /* Replace with the URL of your image */
